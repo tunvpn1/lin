@@ -1,0 +1,30 @@
+{
+//အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ ယခင်ထက် နံပါတ်များ ပိုမိုပြောင်းလဲရန် လိုအပ်ပါသည်။
+"Version":"2.2",
+//ဆာဗာ အပ်ဒိတ်
+"Url":"https://github.com/HeinMinLattVPN/HeinMinLatt/blob/main/heinlay.zip?raw=true" ,
+"Changelog":"
+💶2.2 Updated💷
+🇹🇭Thailand Server Free
+
+ZMH GP
+🚀GoodSpeed🚀
+♨️FREE NET VPN♨️
+🙏Thank you for your encouragement🙏
+
+ 
+",
+ 
+ 
+ 
+ 
+ 
+ 
+//Myanmar
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
